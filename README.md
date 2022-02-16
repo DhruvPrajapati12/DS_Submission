@@ -3,5 +3,5 @@
 1. Simply linked list
 2. circular linked list
 3. Doubly linked list
-4. Tree traversal
+4. Tree traversal(static tree)
 5. Binary search tree
